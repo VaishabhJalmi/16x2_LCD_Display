@@ -16,3 +16,5 @@ Is display can work on two modes like 4-bit & 8-bit
 
 Registers of LCD
 A 16×2 LCD has two registers like data register and command register. The RS (register select) is mainly used to change from one register to another. When the register set is ‘0’, then it is known as command register. Similarly, when the register set is ‘1’, then it is known as data register.
+
+![image](https://user-images.githubusercontent.com/69182306/209988708-4b999b1d-8ed2-4e02-8ac9-c1c8440d4c08.png)
